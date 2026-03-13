@@ -1,0 +1,2 @@
+assets/vids/*.mp4 filter=lfs diff=lfs merge=lfs -text
+assets/vids/*.webm filter=lfs diff=lfs merge=lfs -text
